@@ -1,4 +1,4 @@
-# **Course Title**<br/>by **Course Author**
+# **Test Python Course**<br/>by **Robert Cabral**
 
 Specs deadline: YYYY-MM-DD
 
